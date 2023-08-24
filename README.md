@@ -6,9 +6,7 @@
 </h3>
 <a href="https://visitorbadge.io/status?path=https%3A%2F%2Fgithub.com%2FMAHADI-YOUR-PAPA%2Fgithub-MAHADI-143"><img src="https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2FMAHADI-YOUR-PAPA%2Fgithub-MAHADI-143&label=MAHADI'S%20GITHUB%20VISITOR&labelColor=%23697689&countColor=%23dce775&labelStyle=upper" width="350" height="35"></a>
 <center>
-<a href="https://github.com/MAHADI-143"><img title="trophy" src="https://github-profile-trophy.vercel.app/?username=MAHADI-143&theme=monokai"></a>
 
-<h2> <img width="25" src="https://github.com/DalpatRathore/dalpatrathore/blob/main/assets/icons/icon-stats.png" /><i> GitHub Stats :</i></h2>
 
 <table border="1">
   <tr>
